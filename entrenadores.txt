@@ -1,3 +1,5 @@
 "Lista de entrenadores" 
 "Marcelino García Toral" 
 "Rubén Uría" 
+"Entrenador Nuevo"
+"Entrenador Nuevo 2"
