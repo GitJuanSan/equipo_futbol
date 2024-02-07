@@ -1,4 +1,5 @@
 "Lista de títulos" 
 "Trofeo de la Cerámica" 
 "Copa intertoto" 
-"UEFA Europa League" 
+"Trofeo Nuevo"
+"Trofeo Nuevo 2"
