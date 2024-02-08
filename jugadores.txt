@@ -7,3 +7,4 @@
 "Jugador Nuevo"
 "Jugador Nuevo 2"
 "Jugador Nuevo 3"
+"Jugador Local"
