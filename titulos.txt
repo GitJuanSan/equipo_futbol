@@ -2,3 +2,4 @@
 "Trofeo de la Cerámica" 
 "Copa intertoto" 
 "Trofeo Nuevo"
+"Premio al mérito"

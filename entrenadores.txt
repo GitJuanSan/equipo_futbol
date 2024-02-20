@@ -3,3 +3,4 @@
 "Rubén Uría" 
 "Entrenador Nuevo"
 "Segundo Entrenador"
+"Entrenador de porteros"
