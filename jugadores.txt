@@ -9,3 +9,4 @@
 "Jugador Nuevo 3"
 "Jugador Local"
 "Jugador Nuevo 4"
+"Jugador Kraken"
